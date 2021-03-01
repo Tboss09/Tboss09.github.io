@@ -135,6 +135,7 @@
     {
         "id": 4,
         "title": "Others",
+        "alt": "Unspecified MCTT Images",
         "images": [
             "image-1-compressed-720x478-720x478.jpg",
             "image-2-compressed-1-720x478-720x478.jpg",
