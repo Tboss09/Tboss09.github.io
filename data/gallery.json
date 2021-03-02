@@ -110,7 +110,7 @@
         "title": "Girls Brigade",
         "alt": "Girls Brigade Images",
         "images": [
-            "IMG_20191124_142406_7-compressed.jpg.webp",
+            "IMG_20191124_142406_7-compressed.webp",
             "IMG_20191124_142411_1-compressed.webp",
             "IMG_20191124_142352_4-compressed-1.webp",
             "IMG_20191124_142414_9-compressed.webp",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Others",
         "alt": "Unspecified MCTT Images",
         "dateOfEvent": "Date Not Specified",
